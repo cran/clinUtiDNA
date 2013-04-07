@@ -1,0 +1,16 @@
+9d9f72dfeddc5d8dd438302f82093d31 *DESCRIPTION
+ea8bc12896d4db9a2170882fa04efd27 *NAMESPACE
+e010edff3f4af133997f1f3c6e9c9fd7 *R/VarInt.cc.R
+d647a64a6fb6f8063e350ddb996d60ce *R/VarInt.cc.pD.R
+fb5e1a20a3a73e550705d817beebe68d *R/VarInt.coh.R
+bab856456d30698c59dcd326bd751100 *R/VarUti.cc.R
+7f3c2c04bcfdff98e18f687f74b6038f *R/VarUti.cc.pD.R
+62b8c7094129acadca323dda44cf4983 *R/VarUti.coh.R
+605228e5de0ef3e8a1212165f70a6b59 *R/gxe.cc.R
+10e44df0d1e629f549c5e837a8f02139 *R/gxe.coh.R
+32a84f10b56b5d2fa11d57158273370a *R/utility.cc.R
+d318dae91456a2a89bd09b8ce19fbcf7 *R/utility.coh.R
+c1c940f4b84c859f8b6e05845510515f *man/gxe.cc.Rd
+b2c5373686d8bb62e61dbaf28fc9a6b5 *man/gxe.coh.Rd
+bf6045c4becb9ad169215d8f1e1eb91c *man/utility.cc.Rd
+77058058bc436bab05fa835500804109 *man/utility.coh.Rd
